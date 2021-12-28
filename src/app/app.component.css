@@ -1,14 +1,12 @@
 body {
   background-color: wheat;
   direction: rtl;
-  font-family: b yekan;
-  padding: 250px;
+
 
 }
 fieldset {
   border: 1px solid black;
-  padding: 10px;
-  width : 300px;
+
 }
 
 
