@@ -1,0 +1,14 @@
+body {
+  background-color: wheat;
+  display: flex;
+
+  justify-content: center;
+  height: 100vh;
+
+}
+fieldset {
+  border: 1px solid  black ;
+
+}
+
+
