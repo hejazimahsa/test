@@ -1,11 +1,28 @@
 .center {
   display: flex;
-  background-color: #dc8b11;
+  background-color: #c199dc;
   justify-content: center;
   height: 100vh;
   align-items: center ;
   vertical-align: middle;
 }
 
+.center2 {
+  margin: 0 auto;
+  width: 200px;
 
+}
 
+.border{
+  background-color: #a979ac;
+  border-width:3px !important;
+  margin: 0 auto;
+  width: 200px;
+}
+.move-right {
+  width: 100%;
+  box-shadow: none;
+}
+.checkbox{
+  margin-left: 190px;
+}

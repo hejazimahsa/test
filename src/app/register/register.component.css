@@ -1,8 +1,28 @@
-body {
-  background-color: darkseagreen;
-  direction: rtl;
+.center {
+  display: flex;
+  background-color: #c199dc;
+  justify-content: center;
+  height: 200%;
+  align-items: center ;
+  vertical-align: middle;
+}
+
+.center2 {
+  margin: 0 auto;
+  width: 200px;
 
 }
-fieldset {
-  border: 1px solid black;
+
+.border{
+  background-color: #a979ac;
+  border-width:3px !important;
+  margin: 0 auto;
+  width: 200px;
+}
+.move-right {
+  width: 100%;
+  box-shadow: none;
+}
+.checkbox{
+  margin-left: 190px;
 }
