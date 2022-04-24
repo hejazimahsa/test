@@ -27,7 +27,7 @@
 
         <div class="form-group  col-xl-12 ">
           <label style="width: 100%" class="text-right" for="inputEmail3">ایمیل</label>
-          <input type="email" class="form-control  " id="inputEmail3">
+          <input type="email" class="form-control" onkeypress="return /[a-z0-9]/i.test(event.key)"id="inputEmail3">
         </div>
 
         <div class="form-group  col-xl-12  ">
@@ -39,17 +39,18 @@
           <label style="width: 100%" class="text-right" for="inputPassword3">تایید رمز</label>
           <input type="password" class="form-control  " id="conficPassword3">
         </div>
-      </form>
 
-      <div class="checkbox  ">
 
-        <label class="text-center col-xl-6"> باقوانین موافقم <input type="checkbox"></label>
+        <div class="checkbox  text-left ">
 
-        <div class="text-center  col-xl-12 ">
-          <button type="button" class="btn btn-primary">ثبت نام</button>
+          <label class="text-right "> باقوانین موافقم <input type="checkbox"></label>
 
+          <div class="text-right col-md-12">
+            <a role="button" class="btn btn-primary  " href="http://localhost:53157"> ورود</a>
+
+          </div>
         </div>
-      </div>
+      </form>
     </div>
   </div>
 </div>

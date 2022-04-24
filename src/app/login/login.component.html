@@ -6,7 +6,7 @@
   <meta charset="utf-8">
 
 
-  <title>"> صفحه ورودبه سایت اصلی </title>
+  <title>صفحه ورودبه سایت اصلی </title>
 
 </head>
 
@@ -22,7 +22,8 @@
 
         <div class="form-group  col-xl-12 ">
           <label style="width: 100%" class="text-right" for="inputEmail3">ایمیل</label>
-          <input type="email" class="form-control  " id="inputEmail3">
+          <input type="email" lang="en" dir="ltr" class="form-control" onkeypress="return /[a-z0-9]/i.test(event.key)"
+                 oninvalid="this.setCustomValidity" id="inputEmail3">
         </div>
 
         <div class="form-group  col-xl-12  ">
@@ -30,21 +31,21 @@
           <input type="password" class="form-control  " id="inputPassword3">
         </div>
 
-      </form>
 
-      <div class="checkbox  ">
+        <div class="checkbox text-right col-xl-10  " style="width:100%">
 
 
-         <label class="text-right col-xl-12"> مرا به خاطر داشته باش <input type="checkbox"   ></label>
+          <label class="text-center  "> مرا به خاطر داشته باش <input type="checkbox"></label>
+          <div>
 
-        <div class="text-right  col-xl-9 ">
-        <label class="text-right"col-xl-12 >اگر ثبت نام نکردید اینجا را کلیک کنید</label>
-        </div>
-            <div class="text-right  col-xl-9 ">
-              <button type="button" class="btn btn-primary" > ورود</button>
+            <label class="text-center    "> اگر ثبت نام نکردید <a  class="stretched-link" href="http://localhost:53157/payment"> اینجا</a> را کلیک کنید</label>
+
           </div>
-
-      </div>
+          <div class="text-right  ">
+            <a role="button" class="btn btn-primary " href="http://localhost:53157/register"> ورود</a>
+          </div>
+        </div>
+      </form>
     </div>
   </div>
 
