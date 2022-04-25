@@ -2,14 +2,15 @@
   display: flex;
   background-color: #c199dc;
   justify-content: center;
-  height: 200%;
+  height: 300%;
   align-items: center ;
   vertical-align: middle;
+
 }
 
 .center2 {
   margin: 0 auto;
-  width: 200px;
+  width: 400px;
 
 }
 
@@ -25,4 +26,7 @@
 }
 .checkbox{
   margin-left: 190px;
+  line-height: 30px;
+  margin-bottom: 20px;
 }
+
