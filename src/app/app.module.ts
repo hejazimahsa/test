@@ -9,18 +9,23 @@ import {LoginComponent} from './login/login.component';
 import {RouterModule} from "@angular/router";
 import { PaymentComponent } from './payment/payment.component';
 
+
 @NgModule({
   declarations: [
     AppComponent,
     RegisterComponent,
     DashboardComponent,
     LoginComponent,
-    PaymentComponent
+    PaymentComponent,
+
   ],
   imports: [
     BrowserModule,
     AppRoutingModule
-  ],
+],
+
+
+
   exports: [
     RouterModule],
   providers: [],
