@@ -1,0 +1,99 @@
+/body {
+  background-image: linear-gradient(gray, black, blue);
+}
+
+.general{
+	border:10px 10px 10px 10px;
+	padding:2%;
+
+}
+
+.bord{
+  background-color: white;
+	
+	
+}
+
+.food1 img {
+    height: 130px;
+	width: 200px ;
+}
+
+.food2 img {
+    height: 130px;
+	width: 200px ;
+}
+
+.matn{
+	font-size: 30px;
+	 display:flex;
+  align-items:center;
+}
+
+
+
+.informationcard {
+    background-color: white;
+text-align:right;
+}
+
+
+
+.col-md-5 {
+    float: right !important;
+}
+
+.col-md-7 {
+    float: left !important;
+}
+
+
+
+
+.detailbuy {
+    background-color: white;
+text-align:right;
+}	
+
+
+
+
+.subtitlle {
+  background-color:  white;
+  padding:30px;
+text-align:right;
+}
+
+
+
+
+label.h3{
+	font-family: "BBCNassim";
+}
+
+
+.testii {
+ font-size:10px;
+border:10px 10px 10px 10px;
+
+}
+
+
+
+
+   @font-face {
+    font-family: "BBCNassim";
+    font-weight: normal;
+    font-style: normal;
+    src: url("http://www.bbc.co.uk/worldservice/fonts/persian/nassim/bbc-nassim-regular.eot");
+    src: url("http://www.bbc.co.uk/worldservice/fonts/persian/nassim/bbc-nassim-regular.woff") format("woff"),
+    url("http://www.bbc.co.uk/worldservice/fonts/persian/nassim/bbc-nassim-regular.ttf") format("truetype");
+   }
+
+
+						
+.font-bbcnassim-all {
+           font-family: "BBCNassim"
+}
+						
+					
