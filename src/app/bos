@@ -1,0 +1,309 @@
+	
+<html lang="fa">					
+
+
+
+
+  <head>
+ 
+   
+   <link rel="stylesheet" href="SE.css">
+   <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <script src="https://cdn.jsdelivr.net/npm/jquery@3.6.0/dist/jquery.slim.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.bundle.min.js"></script>
+   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
+ <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js">  </script>
+ <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js">  </script>
+  <link rel="preconnect" href="//fdn.fontcdn.ir">
+<link rel="preconnect" href="//v1.fontapi.ir">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+ <link href='http://fonts.googleapis.com/css?family=Oswald:400,300,700' rel='stylesheet' type='text/css'>
+ 
+  
+   <style>
+   @font-face {
+                                font-family: "BBCNassim";
+                                font-weight: normal;
+                                font-style: normal;
+                                src: url("http://www.bbc.co.uk/worldservice/fonts/persian/nassim/bbc-nassim-regular.eot");
+                                src: url("http://www.bbc.co.uk/worldservice/fonts/persian/nassim/bbc-nassim-regular.woff") format("woff"),
+                                     url("http://www.bbc.co.uk/worldservice/fonts/persian/nassim/bbc-nassim-regular.ttf") format("truetype");
+                        }        
+</style>
+ </head>
+ 
+
+
+<div class="progress ">
+
+  <div class="progress-bar bg-dark" role="progressbar" style="width: 100%" >
+
+<fieldset>
+<div class="float-left rounded-circle testii  rounded-lg col-sm-6  col-md-6  col-lg-6  col-xl-6 ">
+
+<strong > 021-23502</strong><label>مرکز تماس</label>
+
+ 
+
+</div>
+</fieldset>
+ 
+
+
+
+</div></div>
+
+
+<body background="backgrand.JPG  ">
+
+
+
+<div class=" container general">
+<div class="row ">
+<div class="font font-bbcnassim-all  row  bord border rounded-4 mb-3 col-sm-12  col-md-12  col-lg-12  col-xl-12 ">
+   
+
+	    <div  class="text-left  col-md-4  food1 ccol-sm-3 col-md-3  col-lg-3  col-xl-3">
+			<img src='armp.jpg'   >
+		</div>
+		
+	    <div class="matn  text-katakana justify-content-center p-3 col-sm-6 col-md-6  col-lg-6  col-xl-6 ">  
+			<label class="font font-bbcnassim-all bold" >  درگاه پرداخت اینترنتی|پرداخت الکترونیک پاسارگاد</label>
+		</div>
+		   
+	    <div  class="text-right  food2 col-sm-4 food2 col-sm-3 col-md-3  col-lg-3  col-xl-3">  
+			<img  src='shaparak.jpg'  alt="Responsive image"  >
+        </div>
+</div>
+	
+	
+
+	
+	
+	 <div class="font font-bbcnassim-all  row detailbuy  mr-4 pt-5	 border rounded-4  col-sm-4  col-md-4  col-lg-4  col-xl-4  "  >
+	  <form >
+	  
+	
+	 <div class="form-group " >
+   <label    class="form-text text-muted   ">نوع عملیات</label>
+    <label   class="  " >خرید</label>
+    </div> <hr>
+	
+	
+
+	  
+	  <div class="form-group " >
+   <label    class="form-text text-muted   ">نام پذیرنده</label>
+    <label  class="  "  >اسنپ فود</label>
+   <br><hr></div>
+   
+   
+   
+	  
+	    <div class="form-group " >
+   <label    class="form-text text-muted  ">شماره پذیرنده</label>
+    <label   class="  " >3859404</label>
+    </div> <hr>
+	
+	
+	
+	 <div class="form-group " >
+   <label    class="form-text text-muted   ">سایت پذیرنده</label>
+    <label   class="  " >https://snapfood.ir</label>
+    </div> <hr>
+	
+
+<br><br><br>
+	
+	
+	<div class=" col-form-label col-sm-8  ">
+<button type="button" class="btn-ms  rounded-3  btn-block btn-outline-danger  " disabled>09:34  زمان باقی مانده</button>	</div>	
+	
+
+
+<div class=" col-form-label col-sm-12  col-md-12  col-lg-12 col-xl-12  ">
+<button type="button" class="btn-lg  rounded-3  btn-block btn btn-outline-success  " disabled>مبلغ قابل پرداخت</button>	</div>	
+
+
+		
+	
+
+
+
+</form>	
+	</div>
+
+	
+
+
+	
+	
+	
+<div class="font font-bbcnassim-all row informationcard  pt-5 border rounded-4  col-sm-8  col-md-8  col-lg-8  col-xl-8 ">	
+   <form  >
+   <div class="form-group ">
+
+ <div class="form-group row ">
+	<div class=" col-form-label  col-sm-7  col-md-7  col-lg-7  col-xl-7">
+		<input class="form-control rounded-3 input-lg "  type="text"  onkeypress="return /[0-9-]/i.test(event.key)" >
+	</div>
+	<div  class="  col-sm-5  col-md-5  col-lg-5  col-xl-5"> 
+		<label   class="text-danger font-weight-bolder "  >*</label><label >شماره کارت</label><br>
+		<label class="text-black-50 small "  > شماره 16 رقمی رو کارت خود را وارد نمایید</label>
+   </div>
+  
+</div>	
+	
+
+	
+	 <div class="form-group row ">
+	<div class=" col-form-label  col-sm-7  col-md-7  col-lg-7  col-xl-7">
+		<input class="form-control rounded-3 input-lg "  type="text"  onkeypress="return /[0-9-]/i.test(event.key)" >
+	</div>
+	<div  class="  col-sm-5  col-md-5  col-lg-5  col-xl-5"> 
+		<label   class="text-danger font-weight-bolder "  >*</label><label >(CVV2)</label></label><label >شماره شناسایی دوم</label><br>
+		<label class="text-black-50 small "  > شماره 3 یا 4 رقمی وارد نمایید</label>
+   </div>
+  
+</div>	
+
+
+
+<div class="font font-bbcnassim-all form-group row ">
+	<div class=" col-form-label col-sm-3  col-md-3  col-lg-3  col-xl-3 ">
+		<input class="form-control rounded-3 input-lg" placeholder="سال" type="text"  onkeypress="return /[0-9-]/i.test(event.key)" >
+		</div>
+		<div class="  col-form-label  col-sm-4  col-md-4  col-lg-4  col-xl-4 ">
+		<input class="form-control rounded-3 input-lg" placeholder="ماه" type="text-ri"  onkeypress="return /[0-9-]/i.test(event.key)" >
+	</div>
+	
+	<div  class="  col-sm-5  col-md-5  col-lg-5  col-xl-5"> 
+		<label   class="text-danger font-weight-bolder "  >*</label><label >تاریخ انقضا کارت</label><br>
+		<label class="text-black-50 small "  > تاریخ به تفکیک ماه و سال می باشد</label>
+   </div>
+  
+</div>		
+	
+
+
+<div class="form-group row ">
+	<div class=" col-form-label col-sm-3  col-md-3  col-lg-3  col-xl-3 ">
+		<button class="btn btn-success rounded-3 btn btn-block" >دریافت رمز پویا</button></div>	
+		<div class="  col-form-label  col-sm-4  col-md-4  col-lg-4  col-xl-4 ">
+		<input class="form-control rounded-3 input-lg"  type="text-ri"  onkeypress="return /[0-9-]/i.test(event.key)" >
+	</div>
+	
+	<div  class="  col-sm-5  col-md-5  col-lg-5  col-xl-5"> 
+		<label   class="text-danger font-weight-bolder "  >*</label><label >کد امنیتی</label><br>
+		<label class="text-black-50 small "  > عبارت روبه رو را وارد نمایید</label>
+   </div>
+  
+</div>		
+
+
+<div class="form-group row ">
+	<div class=" col-form-label col-sm-3  col-md-3  col-lg-3  col-xl-3 ">
+		<button class="btn btn-success rounded-3 btn btn-block" >کد کپچا</button></div>	
+		<div class="  col-form-label  col-sm-4  col-md-4  col-lg-4  col-xl-4 ">
+		<input class="form-control rounded-3 input-lg" type="text-ri"  onkeypress="return /[0-9-]/i.test(event.key)" >
+	</div>
+	
+	<div  class="  col-sm-5  col-md-5  col-lg-5  col-xl-5"> 
+		<label   class="text-danger font-weight-bolder "  >*</label><label >رمز اینترنتی</label><br>
+		<label class="text-black-50 small "  > رمز اینترنتی ارسال شده را وارد نمایید</label>
+   </div>
+  
+</div>		
+	
+	
+
+		
+	 <div class="form-group row ">
+	<div class=" col-form-label  col-sm-7  col-md-7  col-lg-7  col-xl-7">
+		<input class="form-control rounded-3 input-lg "  type="text"  onkeypress="return /[0-9-]/i.test(event.key)" >
+	</div>
+	<div  class="  col-sm-5  col-md-5  col-lg-5  col-xl-5"> 
+		<label   class="text-danger font-weight-bolder "  >*</label><label >ایمیل</label><br>
+		<label class="text-black-50 small "  > ایمیل خود را وارد نمایید(اختیاری)</label>
+   </div>
+  
+</div>		
+		
+
+	  <div class="form-group row ">
+	  <div class="col-sm-12  col-md-12  col-lg-12  col-xl-12">
+		<div class="form-checkbox  col-sm-7  col-md-7  col-lg-7  col-xl-7 "  >
+		 <p  type="form-checkbox"  class="form-checkbox  "   > ذخیره شماره و تاریخ انقضاء کارت
+		 <input type="checkbox" ></p></div></div></div>	
+     
+		 
+		 
+		 
+	<div class="form-group row ">
+	
+
+<div class=" col-form-label col-sm-2  ">
+<button type="button" class="btn btn-secondary btn-lg rounded-3  btn-block ml-1">انصراف</button>	</div>	
+		
+	<div class=" col-form-label col-sm-5  col-md-5  col-lg-5  col-xl-5  ">
+<button type="button" class="btn btn-success btn-lg rounded-3 btn-block ">پرداخت</button>	</div>	
+		
+   </div>	
+
+
+ </div>	  
+ </form>
+ </div>
+	  
+ 
+       
+       
+        
+
+ 
+
+ 
+<div class=" font font-bbcnassim-all  subtitlle border rounded-4 mt-3  "   >	
+ 
+
+<nav class="navbar-brand navbar-expand-lg  navbar-default"tabindex="-1">
+    <div class="nav nav-tabs" id="nav-tab" role="tablist">
+
+      <a class="nav-item nav-link active" id="nav-profile-tab" data-toggle="tab" href="#nav-profile" role="tab" aria-controls="nav-profile" aria-selected="false">راهنمای استفاده از رمز پویا</a>
+      <a class="nav-item nav-link" id="nav-contact-tab" data-toggle="tab" href="#nav-contact" role="tab" aria-controls="nav-contact" aria-selected="false">نکات ایمنی</a>
+    </div>
+  </nav>
+  <div class=" navbar-nav"id="nav-tabContent">
+
+    <div class="tab-pane fade show active" id="nav-profile" role="tabpanel" aria-labelledby="nav-profile-tab">
+     <p >لطفا از صحت نام فروشنده و مبلغ نمایش داده شده اطمینان حاصل نمایید.      </p>
+    </div>
+    <div class="tab-pane fade" id="nav-contact" role="tabpanel" aria-label ="nav-contact-tab">
+     <p   >برای جلوگیری از افشای رمز کارت خود، حتی المقدور از صفحه کلید مجازی استفاده نمای     </p>
+    </div>
+  </div>
+ 
+    </div>
+  	
+	
+  </div>
+      
+</body>
+
+</div>
+
+
+
+
+
+<div class="progress ">
+
+  <div class="progress-bar container-fluid bg-warning progress-font-size" style="progress-height:2rem;" role="progressbar" style="width: 100%" >
+
+</div></div>
+
+</html> 
